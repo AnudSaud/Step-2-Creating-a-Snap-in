@@ -13,3 +13,11 @@ This snap-in notifies the owner when a specified keyword is found in a timeline 
 1. Simulate the event by running the test script:
    ```bash
    node test.js
+
+## Code
+
+The code for the snap-in is located in `hello-world-snapin.js`.
+
+## Configuration
+
+The snap-in configuration is defined in `snapin.json`.
